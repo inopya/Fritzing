@@ -1,2 +1,2 @@
 # Fritzing
-Cajón de sastre con los montajes y componenetes propios
+Cajón de sastre con los montajes y componentes propios
